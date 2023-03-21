@@ -1,1 +1,6 @@
+sql query:
 SELECT AVG(age) AS AverageAge FROM dareit.students2;
+
+
+public IP address:
+35.226.244.147
