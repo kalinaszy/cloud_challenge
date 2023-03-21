@@ -1,0 +1,1 @@
+SELECT AVG(age) AS AverageAge FROM dareit.students2;
