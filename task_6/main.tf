@@ -1,3 +1,4 @@
+#Instances creation is now split into separate files, but I'm leaving main.tf for myself
 provider "google" {
   project = "infra-optics-379215"
   region  = "us-central1"
