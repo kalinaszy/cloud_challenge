@@ -1,0 +1,1 @@
+This task cover setting up environment: Github repo, Github desktop, Cloud SDK
