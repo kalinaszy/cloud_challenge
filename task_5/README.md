@@ -1,0 +1,1 @@
+This task covers creating a PostgreSQL instance in GCP and managing it locally from Dbeaver.

@@ -1,0 +1,1 @@
+This task cover creating a Python function in GCP Cloud Functions which is triggered by an HTTP request.
